@@ -1,3 +1,5 @@
+package com.akkademy
+
 import akka.testkit.TestKit
 import org.scalatest.{BeforeAndAfterAll, Suite}
 
